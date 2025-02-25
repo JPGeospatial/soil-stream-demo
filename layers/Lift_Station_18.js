@@ -1,0 +1,1 @@
+var json_Lift_Station_18 = {"type":"FeatureCollection","name":"Lift_Station_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-112.564769674734464,50.342929860099716]}}]}

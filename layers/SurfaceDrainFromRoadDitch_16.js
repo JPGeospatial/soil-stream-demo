@@ -1,0 +1,1 @@
+var json_SurfaceDrainFromRoadDitch_16 = {"type":"FeatureCollection","name":"SurfaceDrainFromRoadDitch_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-112.570334582787694,50.34258301985097]}}]}
